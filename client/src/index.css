@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8fafc; /* พื้นหลังสีเทาอ่อนแบบสะอาด */
+  color: #1a202c;
+  font-family: 'Inter', -apple-system, sans-serif;
+  min-height: 100vh;
+}
